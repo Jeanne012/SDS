@@ -683,8 +683,8 @@ ccode;cname;year;ccode_qog;cname_qog;ccodealp;ccodecow;version;cname_year;ccodea
 398;Kazakhstan;2019;398;Kazakhstan;KAZ;705,00;QoGStdTSjan23;Kazakhstan 2019;KAZ19;1,62
 398;Kazakhstan;2020;398;Kazakhstan;KAZ;705,00;QoGStdTSjan23;Kazakhstan 2020;KAZ20;2,00
 404;Kenya;2020;404;Kenya;KEN;501,00;QoGStdTSjan23;Kenya 2020;KEN20;0,84
-410;Korea (the Republic of);2009;410;Korea, South;KOR;732,00;QoGStdTSjan23;Korea, South 2009;KOR09;0,00
-410;Korea (the Republic of);2010;410;Korea, South;KOR;732,00;QoGStdTSjan23;Korea, South 2010;KOR10;1,71
+410;Korea (the Republic of);2009;410;Korea;732,00;QoGStdTSjan23;Korea;KOR09;0,00
+410;Korea (the Republic of);2010;410;Korea;KOR;732,00;QoGStdTSjan23;Korea;KOR10;1,71
 414;Kuwait;2001;414;Kuwait;KWT;690,00;QoGStdTSjan23;Kuwait 2001;KWT01;0,12
 414;Kuwait;2002;414;Kuwait;KWT;690,00;QoGStdTSjan23;Kuwait 2002;KWT02;0,10
 414;Kuwait;2003;414;Kuwait;KWT;690,00;QoGStdTSjan23;Kuwait 2003;KWT03;0,10
